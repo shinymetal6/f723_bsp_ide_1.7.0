@@ -1,0 +1,8 @@
+stm32f723e_discovery_psram.c:135:9:BSP_PSRAM_Init	8	static
+stm32f723e_discovery_psram.c:188:9:BSP_PSRAM_DeInit	8	static
+stm32f723e_discovery_psram.c:217:9:BSP_PSRAM_ReadData	24	static
+stm32f723e_discovery_psram.c:236:9:BSP_PSRAM_ReadData_DMA	24	static
+stm32f723e_discovery_psram.c:255:9:BSP_PSRAM_WriteData	24	static
+stm32f723e_discovery_psram.c:274:9:BSP_PSRAM_WriteData_DMA	24	static
+stm32f723e_discovery_psram.c:292:13:BSP_PSRAM_MspInit	64	static
+stm32f723e_discovery_psram.c:373:13:BSP_PSRAM_MspDeInit	16	static

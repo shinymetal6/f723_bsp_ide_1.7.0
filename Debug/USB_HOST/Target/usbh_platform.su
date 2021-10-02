@@ -1,0 +1,2 @@
+usbh_platform.c:36:6:MX_DriverVbusFS	24	static
+usbh_platform.c:61:6:MX_DriverVbusHS	24	static
